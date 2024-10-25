@@ -11,12 +11,14 @@
     background:linear-gradient(175deg, #7bacff, #f68ac9);
     color: #fff;
     padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .calculator{
-    width: 200%;
+    width: 100%;
     max-width: 800px;
-    margin-left: 33%;
     margin-top: 10%;
 }
 .calculator h1{
